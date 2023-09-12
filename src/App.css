@@ -1,3 +1,46 @@
+
+:root {
+  --bs-blue: #F3B521;
+  --bs-indigo: #6610f2;
+  --bs-purple: #6a008a;
+  --bs-pink: #E91E63;
+  --bs-red: #f96868;
+  --bs-orange: #f2a654;
+  --bs-yellow: #f6e84e;
+  --bs-green: #46c35f;
+  --bs-teal: #58d8a3;
+  --bs-cyan: #57c7d4;
+  --bs-white: #ffffff;
+  --bs-gray: #434a54;
+  --bs-gray-light: #aab2bd;
+  --bs-gray-lighter: #e8eff4;
+  --bs-gray-lightest: #e6e9ed;
+  --bs-gray-dark: #0f1531;
+  --bs-black: #000000;
+  --bs-gray-100: #f8f9fa;
+  --bs-gray-200: #e9ecef;
+  --bs-gray-300: #dee2e6;
+  --bs-gray-400: #ced4da;
+  --bs-gray-500: #adb5bd;
+  --bs-gray-600: #6c757d;
+  --bs-gray-700: #495057;
+  --bs-gray-800: #343a40;
+  --bs-gray-900: #212529;
+  --bs-primary: #ffd500;/*color*/
+  --bs-secondary: #2df8c5;
+  --bs-success: #07634c;
+  --bs-success-400: #81f077;
+  --bs-success-500: #02bf91;
+  --bs-success-600: #09736c;
+  --bs-success-800: #004246;
+  --bs-success-900: #013437;
+  --bs-dark: #2f2f2f;
+  --bs-info: #ffc373; /*color*/
+  --bs-warning: #F3B521;
+  --bs-danger: #F95F53;
+  --bs-light: #f2fbf7;
+  --bs-body-bg: #fff;
+}
 .App {
   text-align: center;
 }
